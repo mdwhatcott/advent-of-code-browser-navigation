@@ -1,4 +1,4 @@
-# advent+-
+# [advent+-](https://github.com/mdwhatcott/advent+-)
 
 This chrome extension modifies [Advent of Code](http://adventofcode.com) puzzle titles by replacing leading and trailing dash padding `---` with hyperlinks to the previous day and next day puzzles to aid navigation.
 
