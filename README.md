@@ -1,4 +1,4 @@
-# [advent+-](https://github.com/mdwhatcott/chrome-advent-of-code-navigation)
+# https://github.com/mdwhatcott/advent-of-code-browser-navigation
 
 [This browser extension](https://chrome.google.com/webstore/detail/advent%20/fpgpinpnmmgakjgadibllhngdapbhlad) modifies [Advent of Code](http://adventofcode.com) puzzle titles by replacing leading and trailing dash padding `---` with hyperlinks to the previous day and next day puzzles to aid navigation.
 
