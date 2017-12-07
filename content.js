@@ -9,14 +9,14 @@ var next     = day + 1;
 var previousDay = $('<a/>', {text: "[--]", href:"/"+year+"/day/" + previous.toString()});
 var nextDay     = $('<a/>', {text: "[++]", href:"/"+year+"/day/" + next.toString()});
 
-var puzzleTitle = $('article h2').text();
+var puzzleTitle = $('article h2').first().text();
 
 if (previous > 0)
 	puzzleTitle = puzzleTitle.substr(3); // remove leading '---'
 if (next <= 25)
 	puzzleTitle = puzzleTitle.substr(0, puzzleTitle.length-3); // remove trailing '+++'
 
-var title = $('article h2');
+var title = $('article h2').first();
 title.html(puzzleTitle);
 
 if (previous > 0)
