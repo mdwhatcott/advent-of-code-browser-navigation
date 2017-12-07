@@ -1,6 +1,7 @@
 # https://github.com/mdwhatcott/advent-of-code-browser-navigation
 
-[This browser extension](https://chrome.google.com/webstore/detail/advent%20/fpgpinpnmmgakjgadibllhngdapbhlad) modifies [Advent of Code](http://adventofcode.com) puzzle titles by replacing leading and trailing dash padding `---` with hyperlinks to the previous day and next day puzzles to aid navigation.
+This browser extension modifies [Advent of Code](http://adventofcode.com) puzzle titles by replacing leading and trailing dash padding `---` with hyperlinks to the previous day and next day puzzles to aid navigation.
+
 
 For example, consider this title from the [2015 event](http://adventofcode.com/2015/day/16):
 
@@ -14,8 +15,10 @@ The `[--]` and `[++]` will have become hyperlinks to the [Day 15](http://advento
 
 ![Example](https://github.com/mdwhatcott/advent-of-code-browser-navigation/blob/master/day-16-2015-screenshot.png)
 
-[Install from the Chrome Web Store](https://chrome.google.com/webstore/detail/advent%20/fpgpinpnmmgakjgadibllhngdapbhlad)
+Install for:
 
+- [Chrome](https://chrome.google.com/webstore/detail/advent%20/fpgpinpnmmgakjgadibllhngdapbhlad)
+- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/advent-/)
 
 -----
 
